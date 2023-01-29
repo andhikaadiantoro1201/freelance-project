@@ -1,0 +1,4 @@
+1.) Tambahkan URL  YouTube video and click Submit.
+2.) Input durasi (Format is HH:MM:SS)
+3.) Input loops (ketik inf untuk infinite).
+4.) Click start 
